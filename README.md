@@ -122,6 +122,7 @@ Future Enhancements
 - Weather information
 - Hotel and restaurant recommendations
 - Online authentication and cloud synchronization
+  
 Developer
 Name: Gayathri R
 Course: Master of Computer Applications (MCA)
